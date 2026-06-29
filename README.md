@@ -3,7 +3,7 @@
 Apostila didática construída para ensinar banco de dados relacional **lado a lado com a prática** — cada conceito teórico vira imediatamente código SQL executável. O estudo de caso é um **sistema de e-commerce** completo, escolhido por cobrir naturalmente todos os tipos de relacionamento (1:1, 1:N, N:M e auto-relacionamento) e situações reais do dia a dia.
 
 > **Prof. Dr. Anuar José Mincache** · Universidade Estadual de Maringá (UEM)  
-> [github.com/220719](https://github.com/220719) · ORCID: 0000-0001-8528-8020
+> 🔬 [Lattes](http://lattes.cnpq.br/9526608938362113) · 💼 [LinkedIn](https://www.linkedin.com/in/anuar-mincache/) · 💻 [GitHub](https://github.com/220719) · 🆔 [ORCID 0000-0001-8528-8020](https://orcid.org/0000-0001-8528-8020)
 
 ---
 
@@ -34,7 +34,6 @@ Apostila didática construída para ensinar banco de dados relacional **lado a l
 | — | 5 questões de múltipla escolha | Com gabarito comentado |
 
 ### Caixas didáticas ao longo do texto
-A apostila usa caixas destacadas para trazer contexto real a cada conceito:
 
 | Ícone | Tipo | O que traz |
 |-------|------|------------|
@@ -85,7 +84,6 @@ Ou abra cada `.sql` no **Query Tool do pgAdmin** e pressione **F5**.
 | `item_pedido` | Itens de cada pedido | **N:M** pedido × produto (com atributos) |
 | `pagamento` | Pagamentos | **1:N** com pedido |
 | `avaliacao` | Notas e comentários | **N:M** com atributos |
-| `cupom` | Descontos | opcional em pedido |
 
 ### Diagrama ER
 
@@ -110,4 +108,4 @@ Ou abra cada `.sql` no **Query Tool do pgAdmin** e pressione **F5**.
 ## 📄 Licença
 
 Material didático de uso livre para fins educacionais.  
-Cite como: *Mincache, A. J. (2025). Banco de Dados Relacional com PostgreSQL.
+Cite como: *Mincache, A. J. (2025). Banco de Dados Relacional com PostgreSQL. UEM.*
