@@ -110,4 +110,4 @@ Ou abra cada `.sql` no **Query Tool do pgAdmin** e pressione **F5**.
 ## 📄 Licença
 
 Material didático de uso livre para fins educacionais.  
-Cite como: *Mincache, A. J. (2025). Banco de Dados Relacional com PostgreSQL. 
+Cite como: *Mincache, A. J. (2025). Banco de Dados Relacional com PostgreSQL.
